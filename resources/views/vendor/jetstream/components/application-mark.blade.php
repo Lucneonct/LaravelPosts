@@ -1,0 +1,1 @@
+<img src="{{ asset('images/isotipo-platzi.png') }}" {{ $attributes }}/>
